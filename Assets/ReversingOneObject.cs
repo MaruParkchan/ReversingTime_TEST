@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TimeManager : MonoBehaviour
+public class ReversingOneObject : MonoBehaviour
 {
     // Transform 데이터를 저장하는 클래스
     public class TransformData
